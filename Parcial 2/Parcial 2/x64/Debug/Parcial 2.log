@@ -1,0 +1,15 @@
+﻿  cuartos.cpp
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(8,12): error C3646: 'item1': especificador de invalidación desconocido
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(8,17): error C2059: error de sintaxis: ','
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(8,45): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(9,12): error C3646: 'moob1': especificador de invalidación desconocido
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(9,17): error C2059: error de sintaxis: ','
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(9,45): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(10,12): error C3646: 'nombrecuarto': especificador de invalidación desconocido
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(10,24): error C2059: error de sintaxis: ','
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(10,43): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(11,12): error C3646: 'eleccion': especificador de invalidación desconocido
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(11,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(14,17): error C2061: error de sintaxis: identificador 'string'
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(15,64): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\andre\source\repos\Parcial 2\Parcial 2\cuartos.h(15,64): warning C4183: 'cuarto': falta el tipo de valor devuelto; se supone que se trata de una función miembro que devuelve 'int'
